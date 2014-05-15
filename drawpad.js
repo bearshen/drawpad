@@ -1,9 +1,8 @@
 /*!
- * Signature Pad v1.3.2
- * https://github.com/szimek/signature_pad
+ * DrawPad - By Chuxiong Shen
  *
- * Copyright 2013 Szymon Nowak
- * Released under the MIT license
+ * Based on Signature Pad v1.3.2
+ * https://github.com/szimek/signature_pad
  *
  * The main idea and some parts of the code (e.g. drawing variable width Bézier curve) are taken from:
  * http://corner.squareup.com/2012/07/smoother-signatures.html
